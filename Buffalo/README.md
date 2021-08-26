@@ -7,7 +7,7 @@ Below is a presonal maintnenance log specific to my ship in chronological order 
 ## Changelog
 - Made several lever adjustments in an effort to fine-tune flight controls (I use PS4 controller + DS4Windows)
 
-<center><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_005.png" width=20%> <img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_006.png" width=20%> <img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_007.png" width=20%> <img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_009.png" width=20%></center>
+<p align="center"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_005.png" width=20%> <img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_006.png" width=20%> <img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_007.png" width=20%> <img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_009.png" width=20%></p>
 
 - Renamed all 12 generator cooling racks + button from "Backup_Coolent" to "Coolant"
 
@@ -21,7 +21,7 @@ Below is a presonal maintnenance log specific to my ship in chronological order 
 
 - Moved passenger seats, added workbench to floor and squeezed in a medium tank refueling device in the space above.
 
-<center><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_004.png" width=80%></center>
+<p align="center"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_004.png" width=80%></p>
 
 - Removed memory chip and replaced ISAN 2.5 code with updated version. Also enabled the speed estimation with the following change on line 1: sp=1
 
