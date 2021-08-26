@@ -94,7 +94,9 @@ Basic Chip #10 (exterior lighting):
 ```basic
 IF :Nav_Lights ==1 then goto2 else goto1 end
 :NavRed =1 :NavGreen =1
--- blank until line 12 --
+
+//-- blank lines until line 12 --
+
 :NavRed =0 :NavGreen =0
 ```
 
