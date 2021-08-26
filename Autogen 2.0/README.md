@@ -1,7 +1,7 @@
 # Autogen 2.0
 
 
-## Functionality:
+### Functionality:
 
 - Gives full power to generators if batteries are < 90% charged
 
@@ -17,7 +17,7 @@
 
 - The +30 value on line 5 can be adjusted to suit your needs. I needed an extra 30% to balance out the drain rate of my thrusters. Watch your batteries/gen rate at full thrust until you see them start to charge then take note of the gen rate and adjust accordingly. If your batteries start to drain after hitting 90% charge with gens fully warmed up, adjust this up. If they quickly go up to 100% adjust this down until you see them slowly going up at 90%+ charge and holding.
 
-## Setup:
+### Setup:
 
 - Button named "PWR"
 
