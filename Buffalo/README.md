@@ -6,7 +6,7 @@ Below is a personal maintenance log specific to my ship in chronological order a
 
 As a precaution, I've saved all of the [YOLOL Defaults](https://github.com/RustyDawwwgg/Starbase/tree/main/Buffalo/Defaults) for the Buffalo in this repository should you ever need to roll back for whatever reason.
 
-## Changelog
+## Maintenance Log
 - Renamed all 12 generator cooling racks + button from "Backup_Coolent" to "Coolant"
 
 - Added small, green transponder button and removed original transponder/safezone buttons/lights/displays
