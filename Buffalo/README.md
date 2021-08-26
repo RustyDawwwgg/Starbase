@@ -1,3 +1,3 @@
 # Buffalo
 
-Customizations I've added to my Buffalo ship.
+Customizations I've added specific to my Buffalo ship.
