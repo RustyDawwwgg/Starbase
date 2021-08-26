@@ -7,7 +7,7 @@ Below is a presonal maintnenance log specific to my ship in chronological order 
 ## Changelog
 - Made several lever adjustments in an effort to fine-tune flight controls (I use PS4 controller + DS4Windows)
 
-<img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_005.png" width="200"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_006.png" width="200"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_007.png" width="200">
+<img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_005.png" width="200"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_006.png" width="200"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_007.png" width="200"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_009.png" width="200">
 
 - Renamed all 12 generator cooling racks + button from "Backup_Coolent" to "Coolant"
 
