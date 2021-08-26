@@ -19,7 +19,7 @@ Below is a presonal maintnenance log specific to my ship in chronological order 
 
 - Moved passenger seats, added workbench to floor and squeezed in a medium tank refueling device in the space above.
 
-<img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_004.png" width="400">
+<img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_004.png" width="800">
 
 - Removed memory chip and replaced ISAN 2.5 code with updated version. Also enabled the speed estimation with the following change on line 1 sp=1
 
