@@ -2,7 +2,9 @@
 
 Customizations I've added to my Buffalo ship from the Kbot shop.
 
-Below is a personal maintenance log specific to my ship in chronological order as I made them. Feel free to follow along if you wish!
+Below is a personal maintenance log specific to my ship in chronological order as I made them. Feel free to follow along if you wish! However, please do keep in mind that your ship is your responsibility and although I am happy to help those in need of assistance whenever I have the free time to do so, I will not be liable if you break things on your ship!
+
+As a precaution, I've saved all of the [YOLOL Defaults](https://github.com/RustyDawwwgg/Starbase/tree/main/Buffalo/Defaults) for the Buffalo in this repository should you ever need to roll back for whatever reason.
 
 ## Changelog
 - Renamed all 12 generator cooling racks + button from "Backup_Coolent" to "Coolant"
