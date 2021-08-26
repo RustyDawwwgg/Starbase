@@ -1,1 +1,1 @@
-# Images of Buffalo modifications
+## Buffalo modification images
