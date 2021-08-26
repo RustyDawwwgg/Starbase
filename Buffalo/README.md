@@ -13,7 +13,7 @@ Below is a presonal maintnenance log specific to my ship in chronological order 
 
 - Changed all "FuelChamberUnitRateLimit" fields on Generator Fuel Chambers to "FCRL", "FcuForward" fields on FCU and related control lever to "Throttle", and "StoredBatteryPower" field on battery behind driver-side door to "B1" then replaced original gen management script with [Autogen 2.0](https://github.com/RustyDawwwgg/Starbase/tree/main/Autogen%202.0)
 
-- Made several lever adjustments in an effort to fine-tune flight controls (I use PS4 controller + DS4Windows)
+- Made several lever adjustments in an effort to fine-tune flight controls (I use PS4 controller + [DS4Windows](https://github.com/Ryochan7/DS4Windows))
 
 <p align="center"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_005.png" width=20%> <img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_006.png" width=20%> <img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_007.png" width=20%> <img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_009.png" width=20%></p>
 
