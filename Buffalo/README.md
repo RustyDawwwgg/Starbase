@@ -28,7 +28,7 @@ Below is a presonal maintnenance log specific to my ship in chronological order 
 - Changed Propellant displays inside and in front of ship to 40 million to represent the actual amount available 
 >*Note: current version of Buffalo has some disconnected fuel tanks, possibly a bug.*
 
-- Moved ore scanner to bottom-center mounting point and installed scanner auto-pitch script from video: https://youtu.be/FgYT2hmM4zE
+- Moved ore scanner to bottom-center mounting point and installed Scanner Auto-pitch script.
 
 - Added 3rd mining laser to top-cnter hardpoint where ore scanner was origionally
 
