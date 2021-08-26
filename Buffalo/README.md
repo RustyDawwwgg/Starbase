@@ -19,7 +19,7 @@ Below is a presonal maintnenance log specific to my ship in chronological order 
 
 - Moved passenger seats, added workbench to floor and squeezed in a medium tank refueling device in the space above
 
-- Removed memory chip and replaced ISAN code with updated version. Also enabled the speed estimation with the following change on line 1 so=0
+- Removed memory chip and replaced ISAN 2.5 code with updated version. Also enabled the speed estimation with the following change on line 1 sp=1
 
 - Changed Propellant displays inside and in front of ship to 40 mil to represent the actual amount available
 
