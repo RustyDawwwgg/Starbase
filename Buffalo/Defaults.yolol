@@ -1,4 +1,5 @@
 Buffalo YOLO Defaults (10 basic chips, 1 advanced, 1 memory chip)
+In top-down order, counting down left rack first...
 
 Basic Chip #1 (alarm for propellant):
 alarm=0 IF :AlarmOveride==1 THEN goto1 ELSE goto2 END
