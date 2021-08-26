@@ -9,7 +9,7 @@ Below is a presonal maintnenance log specific to my ship in chronological order 
 
 - Added small, green transponder button and removed original transponder/safezone buttons/lights/displays
 
-- Removed Kbot logo and light above passenger seats in preparation for remodeling
+- Removed Kbot logo and light assembly above passenger seats in preparation for remodeling
 
 - Changed all "FuelChamberUnitRateLimit" fields on Generator Fuel Chambers to "FCRL", "FcuForward" fields on FCU and related control lever to "Throttle", and "StoredBatteryPower" field on battery behind driver-side door to "B1" then replaced original gen management script with Autogen 2.0
 
