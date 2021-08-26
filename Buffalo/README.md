@@ -23,7 +23,7 @@ Below is a presonal maintnenance log specific to my ship in chronological order 
 
 <p align="center"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_004.png" width=80%></p>
 
-- Removed memory chip and replaced ISAN 2.5 code with updated version. Also enabled the speed estimation with the following change on line 1: `sp=1`
+- Removed memory chip and replaced ISAN code with [updated version](https://github.com/RustyDawwwgg/Starbase/blob/main/ISAN/ISAN-2.5.yolol). Also enabled the speed estimation with the following change on line 1: `sp=1`
 
 - Changed Propellant displays inside and in front of ship to 40 mil to represent the actual amount available
 
