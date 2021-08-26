@@ -17,7 +17,8 @@ Below is a presonal maintnenance log specific to my ship in chronological order 
 
 - ~~Applied fix to mining lasers found in pinned messages in Kenetor's discord~~ (replaced with new laser pulsing/automation scripts)https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_004.png
 
-- Moved passenger seats, added workbench to floor and squeezed in a medium tank refueling device in the space above. ![](https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_004.png | width=250)
+- Moved passenger seats, added workbench to floor and squeezed in a medium tank refueling device in the space above.
+![](https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_004.pngs=200)
 
 - Removed memory chip and replaced ISAN 2.5 code with updated version. Also enabled the speed estimation with the following change on line 1 sp=1
 
