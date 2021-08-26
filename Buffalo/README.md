@@ -37,3 +37,5 @@ YOLOL code & more info coming soon...
 
 - Added 3rd mining laser to top-center hardpoint where ore scanner was originally + laser pulsing/automation script & fine-tuned for accuracy
 >*Note: experienced issues with turret bases not passing along data to the mounts/devices when attaching. Managed to fix through a combination of moving pieces in/out of my inventory, trying to attach from different angles, and crafting new pieces that were giving me trouble*
+
+- Removed 3 YOLOL racks and replaced with chip readers + installed panel bases & attached panels for troubleshooting YOLOL code & inspecting/diagnosing devices
