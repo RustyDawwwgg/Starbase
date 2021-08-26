@@ -5,10 +5,6 @@ Customizations I've added to my Buffalo ship.
 Below is a presonal maintnenance log specific to my ship in chronological order as I made them. Feel free to follow along if you wish!
 
 ## Changelog
-- Made several lever adjustments in an effort to fine-tune flight controls (I use PS4 controller + DS4Windows)
-
-<p align="center"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_005.png" width=20%> <img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_006.png" width=20%> <img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_007.png" width=20%> <img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_009.png" width=20%></p>
-
 - Renamed all 12 generator cooling racks + button from "Backup_Coolent" to "Coolant"
 
 - Added small, green transponder button and removed original transponder/safezone buttons/lights/displays
@@ -16,6 +12,10 @@ Below is a presonal maintnenance log specific to my ship in chronological order 
 - Removed Kbot logo and light above passenger seats in preparation for remodeling
 
 - Changed all "FuelChamberUnitRateLimit" fields on Generator Fuel Chambers to "FCRL", "FcuForward" fields on FCU and related control lever to "Throttle", and "StoredBatteryPower" field on battery behind driver-side door to "B1" then replaced original gen management script with Autogen 2.0
+
+- Made several lever adjustments in an effort to fine-tune flight controls (I use PS4 controller + DS4Windows)
+
+<p align="center"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_005.png" width=20%> <img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_006.png" width=20%> <img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_007.png" width=20%> <img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_009.png" width=20%></p>
 
 - ~~Applied fix to mining lasers found in pinned messages in Kenetor's discord~~ (replaced with new laser pulsing/automation scripts)
 
