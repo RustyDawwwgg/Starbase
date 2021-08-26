@@ -25,7 +25,7 @@ Below is a presonal maintnenance log specific to my ship in chronological order 
 
 - Removed memory chip and replaced ISAN code with [updated version](https://github.com/RustyDawwwgg/Starbase/blob/main/ISAN/ISAN-2.5.yolol). Also enabled the speed estimation with the following change on line 1: `sp=1`
 
-- Changed Propellant displays inside and in front of ship to 40 million to represent the actual amount available *Note: current version of Buffalo has some disconnected fuel tanks, possibly a bug.
+- Changed Propellant displays inside and in front of ship to 40 million to represent the actual amount available *Note: current version of Buffalo has some disconnected fuel tanks, possibly a bug.*
 
 - Moved ore scanner to bottom-center mounting point and installed scanner auto-pitch script from video: https://youtu.be/FgYT2hmM4zE
 
