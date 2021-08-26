@@ -5,7 +5,7 @@ Customizations I've added to my Buffalo ship.
 Below is a presonal maintnenance log specific to my ship in chronological order as I made them. Feel free to follow along if you wish!
 
 ## Changelog
-- Made several lever adjustments to levers in an effort to fine-tune flight controls (ongoing)
+- Made several lever adjustments in an effort to fine-tune flight controls (ongoing)
 
 - Renamed all 12 generator cooling racks + button from "Backup_Coolent" to "Coolant"
 
