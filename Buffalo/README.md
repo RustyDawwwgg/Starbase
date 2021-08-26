@@ -30,6 +30,8 @@ As a precaution, I've saved all of the [YOLOL Defaults](https://github.com/Rusty
 - Changed Propellant displays inside and in front of ship to 40 million to represent the actual amount available
 >*Note: current version of Buffalo has some disconnected fuel tanks, possibly a bug*
 
+## Works In Progress
+YOLOL code & more info coming soon...
 - Moved ore scanner to bottom-center mounting point and installed Scanner Auto-pitch script
 >*Note: could benefit from some adjustments to close range scanning (planned for future update)*
 
