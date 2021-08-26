@@ -1,8 +1,8 @@
 # Buffalo
 
-Customizations I've added to my Buffalo ship from the Kbot shop. 
+Customizations I've added to my Buffalo ship from the Kbot shop.
 
-Below is a presonal maintnenance log specific to my ship in chronological order as I made them. Feel free to follow along if you wish!
+Below is a personal maintenance log specific to my ship in chronological order as I made them. Feel free to follow along if you wish!
 
 ## Changelog
 - Renamed all 12 generator cooling racks + button from "Backup_Coolent" to "Coolant"
@@ -19,17 +19,16 @@ Below is a presonal maintnenance log specific to my ship in chronological order 
 
 - ~~Applied fix to mining lasers found in pinned messages in Kenetor's discord~~ (replaced with new laser pulsing/automation scripts)
 
-- Moved passenger seats, added workbench to floor and squeezed in a medium tank refueling device in the space above.
+- Moved passenger seats, added workbench to floor and squeezed in a medium tank refueling device in the space above
 
 <p align="center"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_004.png" width=80%></p>
 
 - Removed memory chip and replaced ISAN code with [updated version](https://github.com/RustyDawwwgg/Starbase/blob/main/ISAN/ISAN-2.5.yolol). Also enabled the speed estimation with the following change on line 1: `sp=1`
 
-- Changed Propellant displays inside and in front of ship to 40 million to represent the actual amount available 
+- Changed Propellant displays inside and in front of ship to 40 million to represent the actual amount available
 >*Note: current version of Buffalo has some disconnected fuel tanks, possibly a bug.*
 
-- Moved ore scanner to bottom-center mounting point and installed Scanner Auto-pitch script.
+- Moved ore scanner to bottom-center mounting point and installed Scanner Auto-pitch script
+>*Note: experienced issues with turret bases not passing along data to the mounts/devices when attaching. Managed to fix through a combination of moving pieces in/out of my inventory, trying to attach from different angles, and crafting new pieces that were giving me trouble.
 
-- Added 3rd mining laser to top-cnter hardpoint where ore scanner was origionally
-
-- Added mining laser pulsing/automation script & fine-tuned for accuracy
+- Added 3rd mining laser to top-center hardpoint where ore scanner was originally + laser pulsing/automation script & fine-tuned for accuracy
