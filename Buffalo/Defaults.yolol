@@ -1,8 +1,8 @@
-Buffalo YOLO Defaults (10 basic chips, 1 advanced, 1 memory chip)
-In top-down order, counting down left rack first...
+#Buffalo YOLO Defaults (10 basic chips, 1 advanced, 1 memory chip)
+###In top-down order, counting down left rack first...
 
-Basic Chip #1 (alarm for propellant):
-alarm=0 IF :AlarmOveride==1 THEN goto1 ELSE goto2 END
+###Basic Chip #1 (alarm for propellant):
+```alarm=0 IF :AlarmOveride==1 THEN goto1 ELSE goto2 END
 IF :Propellant<500 THEN alarm=1 ELSE alarm=0 goto1 END
 IF alarm==1 THEN :RedLight=1 :SndT=6 :SoundOn=1 ELSE :RedLight=0 END
 -- blank until line 8 --
@@ -12,7 +12,7 @@ IF alarm==1 YHEN :RedLight=1 ELSE :RedLight=0 END
 -- blank until line 13 --
 IF alarm==1 YHEN :RedLight=1 ELSE :RedLight=0 END
 -- blank until line 18 --
-IF alarm==1 THEN :RedLight=0 ELSE :RedLight=0 END goto1
+IF alarm==1 THEN :RedLight=0 ELSE :RedLight=0 END goto1```
 
 Basic Chip #2 (alarm for fuel rods):
 alarm=0 IF :AlarmOveride==1 THEN goto1 ELSE goto2 END
