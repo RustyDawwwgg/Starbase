@@ -118,6 +118,6 @@ IF :Nav_Lights ==1 then goto2 else goto1 end
 ```
 
 Advanced Chip + Memory Chip (ISAN navigation):
--- no longer works --
-Update Video: https://www.youtube.com/watch?v=xuLfWdVrRfk
-PDF Doc: https://isan.to/isan.pdf
+<p>-- no longer works --</p>
+<p>Update Video: https://www.youtube.com/watch?v=xuLfWdVrRfk</p>
+<p>PDF Doc: https://isan.to/isan.pdf</p>
