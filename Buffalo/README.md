@@ -1,6 +1,6 @@
 # Buffalo
 
-Customizations I've added to my Buffalo ship. 
+Customizations I've added to my Buffalo ship from the Kbot shop. 
 
 Below is a presonal maintnenance log specific to my ship in chronological order as I made them. Feel free to follow along if you wish!
 
