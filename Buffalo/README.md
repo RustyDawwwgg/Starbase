@@ -29,6 +29,6 @@ Below is a personal maintenance log specific to my ship in chronological order a
 >*Note: current version of Buffalo has some disconnected fuel tanks, possibly a bug.*
 
 - Moved ore scanner to bottom-center mounting point and installed Scanner Auto-pitch script
->*Note: experienced issues with turret bases not passing along data to the mounts/devices when attaching. Managed to fix through a combination of moving pieces in/out of my inventory, trying to attach from different angles, and crafting new pieces that were giving me trouble.
+>Note: experienced issues with turret bases not passing along data to the mounts/devices when attaching. Managed to fix through a combination of moving pieces in/out of my inventory, trying to attach from different angles, and crafting new pieces that were giving me trouble.
 
 - Added 3rd mining laser to top-center hardpoint where ore scanner was originally + laser pulsing/automation script & fine-tuned for accuracy
