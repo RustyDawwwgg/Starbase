@@ -7,6 +7,8 @@ Below is a presonal maintnenance log specific to my ship in chronological order 
 ## Changelog
 - Made several lever adjustments in an effort to fine-tune flight controls (ongoing)
 
+<img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_005.png" width="200">
+
 - Renamed all 12 generator cooling racks + button from "Backup_Coolent" to "Coolant"
 
 - Added small, green transponder button and removed original transponder/safezone buttons/lights/displays
