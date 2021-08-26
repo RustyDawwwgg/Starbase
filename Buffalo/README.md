@@ -11,7 +11,7 @@ Below is a presonal maintnenance log specific to my ship in chronological order 
 
 - Removed Kbot logo and light assembly above passenger seats in preparation for remodeling
 
-- Changed all "FuelChamberUnitRateLimit" fields on Generator Fuel Chambers to "FCRL", "FcuForward" fields on FCU and related control lever to "Throttle", and "StoredBatteryPower" field on battery behind driver-side door to "B1" then replaced original gen management script with Autogen 2.0
+- Changed all "FuelChamberUnitRateLimit" fields on Generator Fuel Chambers to "FCRL", "FcuForward" fields on FCU and related control lever to "Throttle", and "StoredBatteryPower" field on battery behind driver-side door to "B1" then replaced original gen management script with <a href="https://github.com/RustyDawwwgg/Starbase/tree/main/Autogen%202.0>Autogen 2.0"</a>
 
 - Made several lever adjustments in an effort to fine-tune flight controls (I use PS4 controller + DS4Windows)
 
