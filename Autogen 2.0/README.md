@@ -9,7 +9,7 @@
 
 - PWR button to be used as a killswitch
 
-- Override button for constant 100% power when needed (good for laser mining as a use case)
+- Override button for constant 100% power when needed (good for laser mining or draining fuel rods as potential use cases)
 
 - Automatically detects when the ship is idle and completely shuts off power when batteries are charged to conserve fuel
 
