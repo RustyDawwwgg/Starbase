@@ -4,7 +4,4 @@ A lot of players were confused (myself included) by the graphical images that we
 
 If you have any suggestions and/or corrections that you would like to submit, feel free to [engage in the discussion](https://github.com/RustyDawwwgg/Starbase/discussions/1)!
 
-Enjoy!
-<p>
-<img arc="https://github.com/RustyDawwwgg/Starbase/blob/main/Eos%20Ore%20Zones/Eos_Ore_Zones.png" width=80%></img>
-</p>
+<p align="center"<br /><br /><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Eos%20Ore%20Zones/Eos_Ore_Zones.png" width=80%>
