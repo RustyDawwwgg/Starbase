@@ -1,0 +1,5 @@
+B=:B1/100 T=B>99.5 :RL*=:PWR goto1+:PWR
+:RL=100*:Override goto(3+:Throttle+(1-:Throttle)*(1-T))*(1-:Override)
+:RL=100-(B>=90)*(B+30) goto1
+:RL*=T goto3-2*T
+//Autogen 2.0 by RustyDawwwg - Condensed by Archaegeo
