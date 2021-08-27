@@ -24,9 +24,11 @@
 - Button named "Override" (I used a flip-top for this)
 
 - Rename GeneratorUnitRateLimit to "RL" on every generator.
- 
+
 * Note: can use FuelChamberUnitRateLimit instead to make the process faster if you have 3 gens or less per chamber.
 
 - Rename FcuForward to "Throttle" on lever and FCU
 
 - Rename StoredBatteryPower to "B1" on one of your batteries
+
+- [YOLOL Code](https://github.com/RustyDawwwgg/Starbase/blob/main/Autogen%202.0/Autogen-2.0.yolol)
