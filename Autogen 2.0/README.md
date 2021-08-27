@@ -25,7 +25,7 @@
 
 - Rename GeneratorUnitRateLimit to "RL" on every generator.
 
->* Note: can use FuelChamberUnitRateLimit instead to make the process faster if you have 3 gens or less per chamber.*
+>*Note: can use FuelChamberUnitRateLimit instead to make the process faster if you have 3 gens or less per chamber.*
 
 - Rename FcuForward to "Throttle" on lever and FCU
 
