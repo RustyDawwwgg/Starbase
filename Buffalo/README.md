@@ -28,7 +28,6 @@ As a precaution, I've saved all of the [YOLOL Defaults](https://github.com/Rusty
 - Removed memory chip and replaced ISAN code with [updated version](https://github.com/RustyDawwwgg/Starbase/blob/main/ISAN/ISAN-2.5.yolol). Also enabled the speed estimation with the following change on line 1: `sp=1`
 
 - Changed Propellant displays inside and in front of ship to 40 million to represent the actual amount available
->*Note: current version of Buffalo has some disconnected fuel tanks, possibly a bug*
 
 ## Works In Progress
 YOLOL code & more info coming soon...
