@@ -31,6 +31,6 @@
 
 - Rename StoredBatteryPower to "B1" on one of your batteries
 
-- [YOLOL Code](https://github.com/RustyDawwwgg/Starbase/blob/main/Autogen%202.0/Autogen-2.0.yolol)
+ [YOLOL Code](https://github.com/RustyDawwwgg/Starbase/blob/main/Autogen%202.0/Autogen-2.0.yolol)
 
-- [Condensed Version](https://github.com/RustyDawwwgg/Starbase/blob/main/Autogen%202.0/Autogen-2.0-condensed.yolol) for minor improvement to execution time at the expense of easily readable code. Condensed by [Archaegeo](https://github.com/Archaegeo/Starbase)
+[Condensed Version](https://github.com/RustyDawwwgg/Starbase/blob/main/Autogen%202.0/Autogen-2.0-condensed.yolol) - for minor improvement to execution time at the expense of easily readable code. Condensed by [Archaegeo](https://github.com/Archaegeo/Starbase)
