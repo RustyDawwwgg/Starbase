@@ -1,6 +1,6 @@
-#Automatic Rapid Deceleration
+# Automatic Rapid Deceleration
 
-###Functionality
+### Functionality
 - First line ensures the code will only progress while actively moving the ship forward.
 - Second line waits for you to stop forward thrust then applies full backward thrust the moment you do.
 - Each blank line you add before the final line will delay the script for 0.2 seconds.
