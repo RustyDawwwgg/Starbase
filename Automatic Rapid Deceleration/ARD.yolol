@@ -1,0 +1,7 @@
+IF :FcuForward>0 THEN GOTO2 ELSE GOTO1 END
+IF :FcuForward==0 THEN :FcuBackward=100 ELSE GOTO2 END
+
+//Skip a few lines for delay
+
+:FcuBackward=0 GOTO1
+//Automatic Rapid Deceleration by RustyDawwwg
