@@ -1,0 +1,8 @@
+IF :ARD THEN GOTO2 ELSE GOTO1 END
+IF :FcuForward>0 THEN GOTO3 ELSE GOTO1 END
+IF :ARD AND :FcuForward==0 THEN :FcuBackward=100 ELSE GOTO2 END
+
+//Skip a few lines for delay
+
+:FcuBackward=0 GOTO1
+//ARD+Button by RustyDawwwg
