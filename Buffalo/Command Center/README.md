@@ -34,7 +34,7 @@ In this tutorial, you will learn how to upgrade the Buffalo's YOLOL rack area in
 
 - Fill in the empty spaces with the 12X48 cm plates & bolt them into place.
 
-- Attach devices directly onto the wall starting from the banel base and working upwards
+- Attach devices directly onto the wall starting from the panel base and working upwards
 
 > Note: Devices must connect inline with the base in order to receive data. There cannot be any gaps in your setup or devices across the gap will lose connection
 
