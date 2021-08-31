@@ -29,6 +29,8 @@ As a precaution, I've saved all of the [YOLOL Defaults](https://github.com/Rusty
 
 - Changed Propellant displays inside and in front of ship to 40 million to represent the actual amount available
 
+- Installed [Buffalo Command Center](https://github.com/RustyDawwwgg/Starbase/tree/main/Buffalo/Command%20Center)
+
 ## Works In Progress
 YOLOL code & more info coming soon...
 - Moved ore scanner to bottom-center mounting point and installed Scanner Auto-pitch script
@@ -36,5 +38,3 @@ YOLOL code & more info coming soon...
 
 - Added 3rd mining laser to top-center hardpoint where ore scanner was originally + laser pulsing/automation script & fine-tuned for accuracy
 >*Note: experienced issues with turret bases not passing along data to the mounts/devices when attaching. Managed to fix through a combination of moving pieces in/out of my inventory, trying to attach from different angles, and crafting new pieces that were giving me trouble*
-
-- Removed 3 YOLOL racks and replaced with chip readers + installed panel bases & attached panels for troubleshooting YOLOL code & inspecting/diagnosing devices
