@@ -6,7 +6,7 @@ In this tutorial, you will learn how to upgrade the Buffalo's YOLOL rack area in
 - 2x Panel Bases
 - 6x Control Table Plates (24x72 cm)
 - 8x Basic Plates (12X48 cm)
->Note: you can retrieve them from this location next to the pilot's seat and use rebuild tool to create more. Or you can just craft some if you don't care about the materials/looks as it will be hidden behind your devices anyways
+>Note: you can retrieve them from this location next to the pilot's seat and use building tool to create more. Or you can just craft some if you don't care about the materials/looks as it will be hidden behind your devices anyways
 
 <p align="center"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Command%20Center/Images/20210831_007.png" width=80%></p>
 
