@@ -10,7 +10,7 @@ In this tutorial, you will learn how to upgrade the Buffalo's YOLOL rack area in
 
 <p align="center"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Command%20Center/Images/20210831_007.png" width=80%></p>
 
-- Your choice of text panels/buttons that will fit in the space
+- Your choice of panels/buttons that will fit in the space
 >Note: I used 24X24 cm text panels as a demonstration in this tutorial. Up to 28 of these will fit in the available space
 
 - Your choice of YOLOL chip readers to replace empty racks
