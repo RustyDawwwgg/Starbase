@@ -24,9 +24,9 @@ In this tutorial, you will learn how to upgrade the Buffalo's YOLOL rack area in
 
 > Note: left side can go down more as there's no duct corner piece in the way. I just assembled the right side first and aligned the left side with that afterwards to keep things simple
 
-- Place panel bases on the lowest squares of the control table plate stacks
+- Place/bolt panel bases on the lowest squares of the control table plate stacks and wire them to the floor ducts
 
-> Note: pay close attention that the grey tab points upwards so your devices can connect to it! The first device must slightly overlap into this tab as shown in this image
+> Note: pay close attention to the grey tab on the panel bases and make sure it points upwards so your devices can connect to them! The first device must slightly overlap into this tab as shown in this image
 
 <p align="center"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Command%20Center/Images/20210831_001.png" width=80%></p>
 
