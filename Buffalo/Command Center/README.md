@@ -15,6 +15,8 @@ In this tutorial, you will learn how to upgrade the Buffalo's YOLOL rack area in
 
 ### Instructions
 - Remove the 4 lower wall panels closest to the MFC
+> Note: Leave the corner pieces in place and make sure they are still bolted to something after removing the wall panels so they don't float away while you're working.
+
 - Stack 3 Control Table Plates (24x72 cm) together at the lowest point you can wth them all the way inside the wall on each side of the MFC
 >Note: you will need to add bolts after placing each panel inside the wall to ensure everything passes durability standards. Here's an image with the left side partially assembled for reference
 
