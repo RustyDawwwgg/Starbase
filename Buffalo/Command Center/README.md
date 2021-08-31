@@ -13,6 +13,8 @@ In this tutorial, you will learn how to upgrade the Buffalo's YOLOL rack area in
 - Your choice of text panels/buttons that will fit in the space
 >Note: I used 24X24 cm text panels as a demonstration in this tutorial. Up to 28 of these will fit in the available space
 
+- Your choice of YOLOL chip readers to replace empty racks
+
 ### Instructions
 - Remove the 4 lower wall panels closest to the MFC
 > Note: Leave the corner pieces in place and make sure they are still bolted to something after removing the wall panels so they don't float away while you're working.
@@ -30,10 +32,14 @@ In this tutorial, you will learn how to upgrade the Buffalo's YOLOL rack area in
 
 <p align="center"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Command%20Center/Images/20210831_001.png" width=80%></p>
 
-> Note: Panels but connect inline with the base in order to receive data. There cannot be any gaps in your setup or devices across the gap will lose connection
+- Fill in the empty spaces with the 12X48 cm plates & bolt them into place.
 
-- Fill in the empty spaces with the 12X48 cm plates & bolt them into place. You can attach devices directly onto the wall from here on up
+- Attach devices directly onto the wall starting from the banel base and working upwards
 
-## Complete Installation
+> Note: Devices must connect inline with the base in order to receive data. There cannot be any gaps in your setup or devices across the gap will lose connection
+
+- Replace as many empty YOLOL racks as you like with chip readers. I added 3 extra chip readers to my setup for a total of 4 chip readers as shown in the completed installation image below
+
+## Completed Installation
 
 <p align="center"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Command%20Center/Images/20210831_028.png" width=80%></p>
