@@ -4,7 +4,7 @@ A lot of players were confused (myself included) by the graphical images that we
 
 If you have any suggestions and/or corrections that you would like to submit, feel free to [engage in the discussion](https://github.com/RustyDawwwgg/Starbase/discussions/1)!
 
-### UPDATE! (ver. 2.0)
+### UPDATE (version 2.0)
 After receiving a lot of feedback from the previous version and deciding to take a trip out to zone 5 myself to precisely measure distances and confirm a lot of things you guys were telling me, I learned a lot about how the ring is structured and decided to update my recently released graphic - now with a new title as it's much more complete and deserving of being called a "guide". Here's a list of changes that were made:
 
 - Designation of asteroid "classes" (A-E) for added clarity
