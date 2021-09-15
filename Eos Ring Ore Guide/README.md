@@ -29,4 +29,4 @@ After receiving a lot of feedback from the previous version and deciding to take
 
 Hope you all enjoy the new version and please be sure to let me know if there's anything else in need of changing.
 
-<p align="center"<br /><br /><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Eos%20Ore%20Zones/EROG_2.0.png" width=100%>
+<p align="center"<br /><br /><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Eos%20Ring%20Ore%20Guide/EROG_2.0.png" width=100%>
