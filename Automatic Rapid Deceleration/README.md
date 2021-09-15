@@ -10,4 +10,4 @@
 
 [YOLOL Code](https://github.com/RustyDawwwgg/Starbase/blob/main/Automatic%20Rapid%20Deceleration/ARD.yolol)
 
-[ARD+Button](https://github.com/RustyDawwwgg/Starbase/tree/main/Automatic%20Rapid%20Deceleration/ARD%2BButton) - modified version to include a button to enable/disable ARD
+[ARD+Button](https://github.com/RustyDawwwgg/Starbase/blob/main/Automatic%20Rapid%20Deceleration/ARD%2BButton/ARD%2BButton.yolol) - modified version to include a button to enable/disable ARD
