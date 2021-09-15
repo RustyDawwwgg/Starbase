@@ -4,6 +4,8 @@ A lot of players were confused (myself included) by the graphical images that we
 
 If you have any suggestions and/or corrections that you would like to submit, feel free to [discuss on Reddit](https://www.reddit.com/r/starbase/comments/pin47o/eos_ring_ore_guide_update_version_20/).
 
+<p align="center"<br /><br /><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Eos%20Ring%20Ore%20Guide/EROG_2.0.png" width=100%>
+
 ### UPDATE (version 2.0)
 After receiving a lot of feedback from the previous version and deciding to take a trip out to zone 5 myself to precisely measure distances and confirm a lot of things you guys were telling me, I learned a lot about how the ring is structured and decided to update my recently released graphic - now with a new title as it's much more complete and deserving of being called a "guide". Here's a list of changes that were made:
 
@@ -28,5 +30,3 @@ After receiving a lot of feedback from the previous version and deciding to take
 - Added version/date info to help keep track of changes
 
 Hope you all enjoy the new version and please be sure to let me know if there's anything else in need of changing.
-
-<p align="center"<br /><br /><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Eos%20Ring%20Ore%20Guide/EROG_2.0.png" width=100%>
