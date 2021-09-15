@@ -6,4 +6,4 @@ Same functionality as [Automatic Rapid Deceleration](https://github.com/RustyDaw
 - Confirm `ButtonOnStateValue` is set to `1` and `ButtonOffStateValue` is set to `0`
 - Confirm `ButtonStyle` is set to `1`
 
-[YOLOL Code](https://github.com/RustyDawwwgg/Starbase/blob/main/Automatic%20Rapid%20Deceleration/ARD%2BButton/ARD%2BButton.yolol)
+[YOLOL Code](https://github.com/RustyDawwwgg/Starbase/blob/main/Automatic%20Rapid%20Deceleration/ARD+BButton/ARD+BButton.yolol)
