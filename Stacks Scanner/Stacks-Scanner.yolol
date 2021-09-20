@@ -1,0 +1,12 @@
+:Scanner="\nOFF" :Rst=1 IF :Scan==0 THEN goto1 END
+x=3 y="\nScanning."
+IF x>0 THEN :Scanner=y x-- y+="." goto3 END
+IF :ScnRes>0 THEN goto6 ELSEIF :Scan==0 THEN goto1 END END
+:ScanOn=1 goto 2
+:ScnIx=0 s="\n" IF :Scan==0 THEN goto1 END
+:Scan=0 v=:Vol/1728/100*100 s=s+:Mat-"Ore"-"Crystal"+"\n"+v
+IF v==1 THEN s+=" Stack" ELSE s+=" Stacks" END s+="\n" :ScnIx++
+IF :ScnIx<:ScnRes THEN goto7 END :Scanner=s
+:ScnIx=0 s="\n" IF :Scan==0 THEN goto10 END goto1
+//Stacks Scanner by RustyDawwwg
+//Inspired by yScan.yolol by Softwerker
