@@ -8,13 +8,12 @@
 
 ### Setup
 - Configure ore scanner with the following values:
-
+<p align="center"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Stacks%20Scanner/20210920_007.png" width=25%>
 - Install button named "Scan" with the following configuration:
 
 - Install text panel named "Scanner" with the following configuration:
 
 
 ### Credits
-This script was inspired by the following YouTube video by Softwerker. It's in German so don't ask me what he's saying (lol) but I did use his code as a starting point for developing this version of his script:
-
+This script was inspired by the following YouTube video by Softwerker. It's in German so don't ask me what he's saying (lol) but I did use his code as a starting point for developing my own version:
 [![Watch the video](https://github.com/RustyDawwwgg/Starbase/blob/main/Stacks%20Scanner/20210920_001.png)](https://youtu.be/FgYT2hmM4zE)
