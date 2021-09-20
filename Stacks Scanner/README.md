@@ -8,7 +8,8 @@
 
 ### Setup
 - Configure ore scanner with the following values:
-<p align="center"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Stacks%20Scanner/20210920_007.png" width=25%>
+<p align="center"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Stacks%20Scanner/20210920_007.png">
+
 - Install button named "Scan" with the following configuration:
 
 - Install text panel named "Scanner" with the following configuration:
