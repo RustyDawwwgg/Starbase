@@ -19,8 +19,8 @@
 <p><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Stacks%20Scanner/20210920_006.png">
 
 ### YOLOL Code
-<p align="center"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Stacks%20Scanner/20210920_002.png" width=80%></p>
-[Text Version]()
+[Click here or on the image below to view as text:](https://github.com/RustyDawwwgg/Starbase/blob/main/Stacks%20Scanner/Stacks-Scanner.yolol)
+[<p align="center"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Stacks%20Scanner/20210920_002.png" width=80%></p>](https://github.com/RustyDawwwgg/Starbase/blob/main/Stacks%20Scanner/Stacks-Scanner.yolol)
 
 ### Credits
 This script was inspired by the following YouTube video by Softwerker. It's in German so don't ask me what he's saying (lol) but I used his code (link in video description) as a starting point for developing my own version:
