@@ -7,7 +7,7 @@
 - Holds information on-screen regarding last scan until the next scan cycle is initiated
 
 ### Setup
-- Configure ore scanner with the following values:
+- Configure material point scanner with the following values:
 <p><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Stacks%20Scanner/20210920_007.png">
 
 - Install button named "Scan" with the following configuration:
