@@ -19,8 +19,6 @@ As a precaution, I've saved all of the [YOLOL Defaults](https://github.com/Rusty
 
 <p align="center"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_005.png" width=20%> <img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_006.png" width=20%> <img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_007.png" width=20%> <img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_009.png" width=20%></p>
 
-- ~~Applied fix to mining lasers found in pinned messages in Kenetor's discord~~ (replaced with new laser pulsing/automation scripts)
-
 - Moved passenger seats, added workbench to floor and squeezed in a medium tank refueling device in the space above
 
 <p align="center"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Buffalo/Images/20210826_004.png" width=80%></p>
@@ -38,5 +36,5 @@ YOLOL code & more info coming soon...
 - Installed Scanner Auto-pitch script
 >*Note: could benefit from some adjustments to close range scanning (planned for future update)*
 
-- Added 3rd mining laser to top-center hardpoint where ore scanner was originally + laser pulsing/automation script & fine-tuned for accuracy
->*Note: experienced issues with turret bases not passing along data to the mounts/devices when attaching. Managed to fix through a combination of moving pieces in/out of my inventory, trying to attach from different angles, and crafting new pieces that were giving me trouble*
+- Added 3rd mining laser to bottom-center hardpoint + laser pulsing/automation script & fine-tuned for accuracy
+>*Note: experienced issues with turret bases not passing along data to the mounts/devices when attaching. Fixed by relogging after fully assembling turrets
