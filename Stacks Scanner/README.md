@@ -1,4 +1,5 @@
 # Stacks Scanner
+<p align="center"><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Stacks%20Scanner/20210920_009.png" width=80%></p>
 
 ### Functionality
 - Interacts with button + text panel to display information related to scanner activity/results
