@@ -31,9 +31,11 @@ As a precaution, I've saved all of the [YOLOL Defaults](https://github.com/Rusty
 
 - Installed [Buffalo Command Center](https://github.com/RustyDawwwgg/Starbase/tree/main/Buffalo/Command%20Center)
 
+- Installed [Stacks Scanner](https://github.com/RustyDawwwgg/Starbase/tree/main/Stacks%20Scanner)
+
 ## Works In Progress
 YOLOL code & more info coming soon...
-- Moved ore scanner to bottom-center mounting point and installed Scanner Auto-pitch script
+- Installed Scanner Auto-pitch script
 >*Note: could benefit from some adjustments to close range scanning (planned for future update)*
 
 - Added 3rd mining laser to top-center hardpoint where ore scanner was originally + laser pulsing/automation script & fine-tuned for accuracy
