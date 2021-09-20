@@ -11,8 +11,12 @@
 <p><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Stacks%20Scanner/20210920_007.png">
 
 - Install button named "Scan" with the following configuration:
+<p><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Stacks%20Scanner/20210920_008.png">
+
+>Note: Scanner and button are both named "Scan" to simplify activation/deactivation process
 
 - Install text panel named "Scanner" with the following configuration:
+<p><img src="https://github.com/RustyDawwwgg/Starbase/blob/main/Stacks%20Scanner/20210920_006.png">
 
 
 ### Credits
