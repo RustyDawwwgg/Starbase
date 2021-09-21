@@ -5,6 +5,7 @@
 - Interacts with button + text panel to display information related to scanner activity/results
 - Displays "OFF" status initially and when scan cycle resets without material discovery
 - Converts scanned material results into "stacks" and rounds to one decimal place then prints the converted results to a text panel
+- Automatically shuts down scanner device once results are found to conserve power
 - Holds information on-screen regarding last scan until the next scan cycle is initiated
 
 ### Setup
